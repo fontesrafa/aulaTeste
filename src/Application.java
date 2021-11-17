@@ -5,5 +5,7 @@ public class Application {
         System.out.println("oi tudo bem");
 
         System.out.println("wppconect");
+
+        System.out.println("wppconect");
     }
 }
